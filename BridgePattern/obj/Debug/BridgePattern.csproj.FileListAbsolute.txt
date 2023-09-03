@@ -1,0 +1,11 @@
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\OOp\BridgePattern\BridgePattern\bin\Debug\BridgePattern.exe.config
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\OOp\BridgePattern\BridgePattern\bin\Debug\BridgePattern.exe
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\OOp\BridgePattern\BridgePattern\bin\Debug\BridgePattern.pdb
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\OOp\BridgePattern\BridgePattern\obj\Debug\BridgePattern.csproj.AssemblyReference.cache
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\OOp\BridgePattern\BridgePattern\obj\Debug\BridgePattern.Form1.resources
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\OOp\BridgePattern\BridgePattern\obj\Debug\BridgePattern.Properties.Resources.resources
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\OOp\BridgePattern\BridgePattern\obj\Debug\BridgePattern.csproj.GenerateResource.cache
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\OOp\BridgePattern\BridgePattern\obj\Debug\BridgePattern.csproj.CoreCompileInputs.cache
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\OOp\BridgePattern\BridgePattern\obj\Debug\BridgePattern.exe
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\OOp\BridgePattern\BridgePattern\obj\Debug\BridgePattern.pdb
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\OOp\BridgePattern\BridgePattern\obj\Debug\BridgePattern.TaskTypeForm.resources
